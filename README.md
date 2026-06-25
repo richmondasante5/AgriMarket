@@ -16,20 +16,20 @@ AgriMarket is a full-stack agricultural marketplace web application designed to 
 
 ## Screenshots
 
+
 ### Home Page
 
-<img width="953" height="388" alt="image" src="https://github.com/user-attachments/assets/856a0aa4-ddf5-4094-a9a1-ca9f1ccdb11e" />
+<img width="1020" height="811" alt="image" src="https://github.com/user-attachments/assets/66aef000-2de5-4d3a-aa68-55c47d332a26" />
 
 
+### Product Details
 
-### Product Listings
+<img width="934" height="402" alt="image" src="https://github.com/user-attachments/assets/cfbd92df-8e6b-43e1-91e4-3c454e50059b" />
 
-![Product Listings](images/screenshots/product-listings.png)
 
 ### Shopping Cart
 
 <img width="949" height="394" alt="image" src="https://github.com/user-attachments/assets/ddf96223-6190-43f9-afe5-79a8a4f3a71c" />
-
 
 
 ### Checkout
@@ -42,11 +42,8 @@ AgriMarket is a full-stack agricultural marketplace web application designed to 
 <img width="405" height="308" alt="image" src="https://github.com/user-attachments/assets/895932fe-d463-461c-b570-d8049d3cc418" />
 
 
-
-
 ### Admin Dashboard
 
-![Admin Dashboard](images/screenshots/admin-dashboard.png)
 <img width="977" height="489" alt="image" src="https://github.com/user-attachments/assets/dfed8ce6-9b19-4f7a-8291-e98e77680532" />
 
 
@@ -59,18 +56,6 @@ AgriMarket is a full-stack agricultural marketplace web application designed to 
 * JavaScript
 * Bootstrap
 
-## Project Structure
-
-This project was originally developed using a traditional PHP/MySQL structure.
-
-* `admin/` – Admin dashboard and management pages
-* `css/` – Stylesheets for the web interface
-* `images/` – Image assets used in the application
-* `includes/` – Reusable PHP files and shared components
-* `uploads/` – Uploaded files and product images
-* `vendor/` – External dependencies and libraries
-* `db file/` – Database-related files
-* Main `.php` files – Application workflows including cart, categories, checkout, account verification, and product operations
 
 ## Purpose
 
