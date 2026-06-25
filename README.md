@@ -18,8 +18,8 @@ AgriMarket is a full-stack agricultural marketplace web application designed to 
 
 ### Home Page
 
-![Home Page](images/screenshots/home-page.png)
-<img width="1020" height="900" alt="image" src="https://github.com/user-attachments/assets/2a33d997-afd9-4361-9e2c-686252d39cfc" />
+<img width="953" height="388" alt="image" src="https://github.com/user-attachments/assets/856a0aa4-ddf5-4094-a9a1-ca9f1ccdb11e" />
+
 
 
 ### Product Listings
@@ -28,8 +28,8 @@ AgriMarket is a full-stack agricultural marketplace web application designed to 
 
 ### Shopping Cart
 
-![Shopping Cart](images/screenshots/shopping-cart.png)
-<img width="1017" height="573" alt="image" src="https://github.com/user-attachments/assets/d8698363-b421-46b3-b236-957b150eb9f1" />
+<img width="949" height="394" alt="image" src="https://github.com/user-attachments/assets/ddf96223-6190-43f9-afe5-79a8a4f3a71c" />
+
 
 
 ### Checkout
