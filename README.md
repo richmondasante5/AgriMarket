@@ -44,9 +44,12 @@ AgriMarket is a full-stack agricultural marketplace web application developed to
 
 <img width="952" height="360" alt="image" src="https://github.com/user-attachments/assets/825a9a18-67ea-4752-a0ac-4cfe901ccb11" />
 
+
 <img width="420" height="340" alt="image" src="https://github.com/user-attachments/assets/9765e95f-c963-4cf5-871c-3a2f20014b3d" />
 
+
 <img width="405" height="308" alt="image" src="https://github.com/user-attachments/assets/895932fe-d463-461c-b570-d8049d3cc418" />
+
 
 
 ### Admin Dashboard
