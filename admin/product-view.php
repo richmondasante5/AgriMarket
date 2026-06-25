@@ -210,7 +210,7 @@ include 'inc/connection.php';
                     <button id="sidebarToggleTop" class="btn btn-link d-md-none rounded-circle mr-3">
                         <i class="fa fa-bars"></i>
                     </button>
-                    <h5>Display something here</h5>
+                    <h5></h5>
                     <!-- Topbar Search -->
 
                     <!-- Topbar Navbar -->
@@ -364,7 +364,7 @@ include 'inc/connection.php';
 
                 <div class="row" >
                   <div class="col-6">
-                    <h6 class="background-light text-primary">Product image: Move cursor to zoom image</h6>
+                    <h6 class="background-light text-primary">Move cursor to magnify image</h6>
                     <div class="img-magnifier-container">
                         <img id="myimage" src="<?php echo "../uploads/".$_SESSION['photo']; ?>" width="500" height="300">
                     </div>
@@ -458,7 +458,7 @@ include 'inc/connection.php';
                 <footer class="sticky-footer bg-white">
                     <div class="container my-auto">
                         <div class="copyright text-center my-auto">
-                            <span>Copyright &copy; Your Website 2021</span>
+                            <span>Copyright &copy; AgriMarket 2026</span>
                         </div>
                     </div>
                 </footer>

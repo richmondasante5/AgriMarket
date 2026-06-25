@@ -15,19 +15,11 @@
 	        	<div class="col-sm-9">
 		         <h2 class="card-header text-primary">ABOUT AGRIMARKERT</h2>
 		       		<p style="text-align: justify; font-size: 16px; font-family: calibri">
-		       			Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
-To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
-Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.<br><hr></p>
-<p style="text-align: justify; font-size: 16px; font-family: calibri"> 
-Save time in Word with new buttons that show up where you need them. To change the way a picture fits in your document, click it and a button for layout options appears next to it. When you work on a table, click where you want to add a row or a column, and then click the plus sign.
-Reading is easier, too, in the new Reading view. You can collapse parts of the document and focus on the text you want. If you need to stop reading before you reach the end, Word remembers where you left off - even on another device.
-Video provides a powerful way to help you prove your point. When you click Online Video, you can paste in the embed code for the video you want to add. You can also type a keyword to search online for the video that best fits your document.
-To make your document look professionally produced, Word provides header, footer, cover page, and text box designs that complement each other. For example, you can add a matching cover page, header, and sidebar. Click Insert and then choose the elements you want from the different galleries.
-Themes and styles also help keep your document coordinated. When you click Design and choose a new Theme, the pictures, charts, and SmartArt graphics change to match your new theme. When you apply styles, your headings change to match the new theme.
+AgriMarket is a web-based marketplace designed to connect farmers, suppliers, and buyers through a single digital platform. The system enables users to browse agricultural products, manage inventory, place orders, and complete secure online transactions. By simplifying the buying and selling process, AgriMarket helps improve market access, reduce manual processes, and create a more efficient agricultural trading experience for both vendors and customers.
+<br><br>
+Built using PHP, JavaScript, MySQL, and Bootstrap, the platform features user authentication, product management, inventory tracking, shopping cart functionality, and Paystack payment integration. The application was developed with a focus on usability, security, and scalability, providing a reliable solution for managing agricultural commerce in a modern digital environment.
+</p>
 
-
-
-		       		</p>
 	        	</div>
 	        	<div class="col-sm-3">
 	        		<?php include 'includes/sidebar.php'; ?>
